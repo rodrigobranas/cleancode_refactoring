@@ -1,0 +1,25 @@
+1 - nomes ruins
+
+* introduziu nomes melhores
+
+2 - mistura de responsabilidades (SRP)
+
+* separar responsabilidades
+
+3 - excesso de linhas em branco (dentro de métodos ou funções)
+
+4 - variáveis declaradas longe da sua utilização
+
+* reposicionar a variável
+
+5 - excesso de parâmetro
+
+* introduzindo objetos
+
+6 - números mágicos (números que ninguém sabe o que é)
+
+* criar constantes
+
+7 - condicionais complexas
+
+* simplificar condicionais (consolidar, criar clausulas-guarda)
